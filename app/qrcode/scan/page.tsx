@@ -1,3 +1,4 @@
+"use client"
 import QRCodeScanner from "@/app/components/QRCodeScanner";
 import React, { useEffect, useState } from "react";
 
